@@ -422,7 +422,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 BOT WORKING PROPERLY"""
  
-   TAMIL_INFO = """
+    TAMIL_INFO = """
 ஏய் <a href='tg://settings'>My Friend</a> 
 
 
