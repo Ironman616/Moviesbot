@@ -217,7 +217,7 @@ IMDb Data:
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 </b>"""
 
 
 
