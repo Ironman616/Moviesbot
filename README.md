@@ -152,7 +152,7 @@ Use these commands:
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Jisshubot/JISSHU_BOT-branch=Tech_Jisshu&name=JISSHU_BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Jisshubot/JISSHU_BOT-branch=JISSHU&name=ANUSHKA_BOT)
 </details>
 
 
